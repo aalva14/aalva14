@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning docker, kubernetes and stuff to build and host the softwares we build
-- 👯 I’m looking to collaborate on interesting pythong projects
+- 👯 I’m looking to collaborate on interesting python projects
 - 😄 Pronouns: She/her
 <!--
 
