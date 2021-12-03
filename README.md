@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/priteshgohil?label=Follow&style=social)](https://github.com/aalva14)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aalva14)
 
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working on Backend development using Python
 - 🌱 I’m currently learning docker, kubernetes and stuff to build and host the softwares we build
 - 👯 I’m looking to collaborate on interesting python projects
 - 😄 Pronouns: She/her
