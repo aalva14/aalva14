@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/archana-alva-ba246440/)
 [![GitHub followers](https://img.shields.io/github/followers/aalva14?label=Follow&style=social)](https://github.com/aalva14)
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=aalva14)]
+
 
 - 🔭 I’m currently working on Backend development using Python
 - 🌱 I’m currently learning docker, kubernetes and stuff to build and host the softwares we build
