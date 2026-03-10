@@ -1,27 +1,26 @@
-### Hey there 👋. I am Archana
+# Hey, I'm Archana 👋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/archana-alva-ba246440/)
-[![GitHub followers](https://img.shields.io/github/followers/aalva14?label=Follow&style=social)](https://github.com/aalva14)
+**Lead Engineer** building production agentic systems 🤖
 
+I design and build the AI backend behind a RAG-based advisory platform
 
-- 🔭 I’m currently working on Backend development using Python
-- 🌱 I’m currently learning docker, kubernetes and stuff to build and host the softwares we build
-- 👯 I’m looking to collaborate on interesting python projects
-- 😄 Pronouns: She/her
-<!--
+## 🔧 What I work on
 
+- **Multi-agent architectures** — LangGraph-based expert routing, management agents, and domain-specific sub-graphs
+- **Retrieval pipelines** — vector search (Qdrant), reciprocal rank fusion, reranking, multi-hop retrieval
+- **Production AI infrastructure** — async streaming (FastAPI + SSE), OpenTelemetry tracing, Azure OpenAI integration
+- **Domain-driven AI** — modelling complex legal and regulatory knowledge as navigable agent expertise
 
-**aalva14/aalva14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Tech
 
-Here are some ideas to get you started:
+`Python` · `FastAPI` · `LangGraph` · `LangChain` · `Qdrant` · `Azure OpenAI` · `PostgreSQL` · `Redis` · `OpenTelemetry` · `Docker`
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning docker, kubernetes and stuff to build and host the softwares we build
-- 👯 I’m looking to collaborate on interesting pythong projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently exploring
 
+- Advanced retrieval strategies (multi-hop reasoning, adaptive chunking)
+- Agent evaluation frameworks and benchmarking
+- Cost-aware LLM orchestration patterns
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archana-alva)
